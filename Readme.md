@@ -1,4 +1,5 @@
 <ul>
+  <li>Bug Bounty</li>
   <li>Hydra</li>
   <li>HackTheBox</li>
   <li>Fravia.net</li>
